@@ -1,0 +1,21 @@
+{
+  "name": "hvk3ls0heei1swqhfvfp2a_1fd677102d0711e8a11f3f5f282cfd8b_aboutus.html",
+  "version": "1.0.0",
+  "description": "assignment 1",
+  "main": "aboutus.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.12.9"
+  }
+}
