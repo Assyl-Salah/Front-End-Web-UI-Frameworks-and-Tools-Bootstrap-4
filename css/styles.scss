@@ -75,10 +75,10 @@ body{
 .modal-header{
   
     background: $background-dark ;
-    color:floralwhite;
+    color:$lt-gray;
  
     .close{
-        color: $background-light ; 
+        color: $lt-gray ; 
     }
    
 }
